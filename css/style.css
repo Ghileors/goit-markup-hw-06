@@ -651,6 +651,10 @@ body {
   justify-content: center;
 }
 
+.submit {
+  display: flex;
+}
+
 .submit__email {
   display: block;
   width: 450px;
